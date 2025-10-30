@@ -133,7 +133,7 @@ G F <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-
+## Output:
 <img width="692" height="427" alt="487193019-8453f256-016f-4d0d-a78b-ad2b700dec5c" src="https://github.com/user-attachments/assets/97bba607-5628-492e-9651-158c8de54f51" />
 
 <hr>
